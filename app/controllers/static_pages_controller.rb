@@ -6,6 +6,8 @@ class StaticPagesController < ApplicationController
   end
 
   def about
-    @about = 'The about page!'
+  end
+
+  def contact
   end
 end
